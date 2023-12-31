@@ -102,7 +102,7 @@ progress.lt-progress[aria-valuenow]:before {
 
 .mce-lt-sgcheck {
 
-    display: inline-block !important;
+    display: none !important;
     position: absolute !important;
     top: 0;
     right: 20%;
